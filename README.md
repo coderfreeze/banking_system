@@ -30,3 +30,6 @@ A simple banking system application built in Java that allows users to create ac
 
 5. Add the MySQL Connector dependency:
    Go to Project Structure > Libraries and add the JDBC driver JAR file.
+
+### In Development
+- **User Login & Register Interface**: Currently working on a login and register system using JavaFX, which features a much better looking and user friendly interface for logging in and registering. 
