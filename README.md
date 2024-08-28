@@ -1,7 +1,7 @@
 # Bank System Project
 
 ## Overview
-A simple banking system application built in Java that allows users to create accounts, log in, and manage their finances. This app utilizes object-oriented programming, JDBC for MySQL connectivity, and a basic user interface through the console.
+A simple banking system application built in Java that allows users to create accounts, log in, and manage their finances. It also includes a loan simulator to help people find their monthly payment. This app utilizes object-oriented programming, JDBC for MySQL connectivity, and a basic user interface through the console.
 
 ## Features
 - **User Registration**: Users can create new accounts with an email, full name, and password. This will be added to the local MySQL database.
