@@ -6,7 +6,7 @@ A simple banking system application built in Java that allows users to create ac
 ## Features
 - **User Registration**: Users can create new accounts with an email, full name, and password. This will be added to the local MySQL database.
 - **User Login**: Registered users can login using their email and password.
-- **Account Management**: Users can view their account balance, full name, and operate their account. These operations include: deposit, withdraw and a simple loan simulator. 
+- **Account Management**: Users can view their account balance, full name, and operate their account. These operations include: deposit, withdraw, and a simple loan simulator. 
 - **Data Storage**: User and account information is securely stored in local MySQL database.
 
 ## Technologies
