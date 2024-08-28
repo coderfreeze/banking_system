@@ -9,7 +9,7 @@ A simple banking system application built in Java that allows users to create ac
 - **Account Management**: Users can view their account balance, full name, and operate their account. These operations include: deposit, withdraw and a simple loan simulator. 
 - **Data Storage**: User and account information is securely stored in local MySQL database.
 
-## Technologies Used
+## Technologies
 - **Java**: The primary programming language for the application.
 - **JDBC**: Java Database Connectivity for interacting with the MySQL database.
 - **MySQL**: Relational database management system for data storage.
@@ -24,8 +24,9 @@ A simple banking system application built in Java that allows users to create ac
 
 3. Set up your MySQL database:
 
-   Create a new database.
-   Create users and accounts tables using the provided SQL table structure.
+      Create a new database.
+   
+      Create users and accounts tables using the provided SQL table structure.
 
-4. Add the MySQL Connector dependency:
+5. Add the MySQL Connector dependency:
    Go to Project Structure > Libraries and add the JDBC driver JAR file.
