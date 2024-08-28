@@ -24,7 +24,8 @@ A simple banking system application built in Java that allows users to create ac
 
 3. Set up your MySQL database:
 
-Create a new database.
-Create users and accounts tables using the provided SQL table structure.
+   Create a new database.
+   Create users and accounts tables using the provided SQL table structure.
+
 4. Add the MySQL Connector dependency:
-Go to Project Structure > Libraries and add the JDBC driver JAR file.
+   Go to Project Structure > Libraries and add the JDBC driver JAR file.
