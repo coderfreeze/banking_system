@@ -1,0 +1,16 @@
+### Users Table
+| Column Name  | Type          | Constraints           |
+|--------------|---------------|-----------------------|
+| user_id      | INT           | PRIMARY KEY, AUTO_INCREMENT |
+| full_name    | VARCHAR(255)  | NOT NULL              |
+| email        | VARCHAR(255)  | NOT NULL, UNIQUE      |
+| password     | VARCHAR(255)  | NOT NULL              |
+
+### Accounts Table
+| Column Name  | Type          | Constraints           |
+|--------------|---------------|-----------------------|
+| account_number | BIGINT     | PRIMARY KEY, AUTO_INCREMENT |
+| full_name    | VARCHAR(255)  | NOT NULL              |
+| email        | VARCHAR(255)  | NOT NULL, UNIQUE      |
+| balance      | DECIMAL(10, 2)| NOT NULL              |
+| security_pin | CHAR(4)      | NOT NULL              |
