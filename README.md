@@ -14,12 +14,6 @@ A simple banking system application built in Java that allows users to create ac
 - **JDBC**: Java Database Connectivity for interacting with the MySQL database.
 - **MySQL**: Relational database management system for data storage.
 
-## Getting Started
-
-### Prerequisites
-- Java Development Kit (JDK) 8 or higher
-- MySQL Server
-- MySQL Connector/J (JDBC Driver)
 
 ### Installation
 
