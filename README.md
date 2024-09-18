@@ -20,7 +20,7 @@ A simple banking system application built in Java that allows users to create ac
 1. Clone the repository:
    git clone https://github.com/coderfreeze/banking_system.git
    cd banking_system
-2. Import the project into any IDE (I utilized IntelliJ IDEA).
+2. Import the project into any IDE (I used IntelliJ IDEA).
 
 3. Set up your MySQL database:
 
